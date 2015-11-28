@@ -1,2 +1,2 @@
 # cs1300-final
-Banner Redesign
+Redesigning the college course scheduler
